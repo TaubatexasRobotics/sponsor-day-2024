@@ -1,0 +1,6 @@
+.wpilib/
+network-tables.json
+simgui*
+tests/
+.wpilib/
+__pycache__/
